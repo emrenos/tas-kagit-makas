@@ -1,5 +1,5 @@
 # Taş-Kağıt-Makas
-> **Açıklama:** Bu C++ programı, bilgisayar ve oyuncu olarak adlandırılan iki oyuncudan birini otomatik seçim yapmasını ve diğerini yani kullanıcıdan da taş, kağıt veya makas girdisini almayı amaçlamaktadır.
+> Bu C++ programı, bilgisayar ve oyuncu olarak adlandırılan iki oyuncudan birini otomatik seçim yapmasını ve diğerini yani kullanıcıdan da taş, kağıt veya makas girdisini almayı amaçlamaktadır.
 
 ## Oynanış
 Oyuncular genellikle üçe (değişebilir) kadar sayar ya da el her havaya kalkıp avuç içine indirildiğinde oyunun ismi (taş-kağıt-makas) söylenir. Elin şekli bu durumların hepsinde taş şeklindedir. 2. kez el havaya kalkıp indirildikten sonra 3. kez kaldırıldığında oyuncular bu 3 durumdan birini seçerler ve karşısındakine seçimini gösterir. Buna göre kazanan veya berabere kalan oyuncu ortaya çıkar.
@@ -37,3 +37,6 @@ Oyuncular genellikle üçe (değişebilir) kadar sayar ya da el her havaya kalk�
 - Açık kaynak programlama aracı (C++ IDE).
 
 ## Program Çıktısı
+<img src="https://github.com/emrenos/tas-kagit-makas/blob/main/tkm.png"/>
+
+---
